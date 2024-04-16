@@ -8,9 +8,9 @@
 # Desenvolvedor
 - Vinicius Loss
 
-Segue abaixo como utilizar o código:
+# Segue abaixo como utilizar o código:
 
-no trecho do código -> trans(result, target_language='en')  # Altere entre as aspas a abreviatura do idioma desejado
+# no trecho do código -> trans(result, target_language='en')  # Altere entre as aspas a abreviatura do idioma desejado
 
 Abaixo encontra-se a lista dos idiomas e suas respectivas abreviações:
 
