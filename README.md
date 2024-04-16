@@ -1,6 +1,6 @@
 <h1>Projeto-interpretador</h1>
 
-# Este projeto foi criado com intuito de automatizar a tradução do que se fala para outras linguas.
+# Este projeto foi desenvolvido para automatizar a tradução do que se fala para outras linguas.
 
 # Técnologia utilizada:
 - Python
